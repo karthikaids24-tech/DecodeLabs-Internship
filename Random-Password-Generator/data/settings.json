@@ -1,0 +1,12 @@
+{
+    "theme": "Dark",
+    "password_length": 16,
+    "uppercase": true,
+    "lowercase": true,
+    "digits": true,
+    "symbols": true,
+    "exclude_similar": false,
+    "no_duplicates": false,
+    "auto_copy": true,
+    "clipboard_timeout": 20
+}
